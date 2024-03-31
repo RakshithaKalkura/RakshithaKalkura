@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## It's me, Rakshitha! I am a sophomore student on a journey towards excellence.
+## It's me, Rakshitha! I am a sophomore student.
 
 <!--
 **RakshithaKalkura/RakshithaKalkura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning _blockchain technologies_.
 - 🤔 I’m looking for help with _Web3 development_.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an _early bird_ 🐥.
+- ⚡ Fun fact: I am an _avid reader_ 📖.
 - 📫 How to reach me: You can connect me on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakshitha-k-)
 
 
