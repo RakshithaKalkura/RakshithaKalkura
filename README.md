@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-## It's me, Rakshitha! I am a sophomore student.
+## It's me, Rakshitha! I am a junior pursuing my bachelor's in Computer Science and Engineering.
 
 <!--
 **RakshithaKalkura/RakshithaKalkura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-## Here is some general info about me...
-- 🔭 I’m currently working on _machine learning, especially on CNN, RNN and computer vision and data science_.
+## Here's about me...
+- 🔭 I’m working on _machine learning, especially on CNN, RNN, computer vision, and data science_.
 - 🌱 I’m currently learning _blockchain technologies_.
 - 🤔 I’m looking for help with _Web3 development_.
 - 😄 Pronouns: she/her
