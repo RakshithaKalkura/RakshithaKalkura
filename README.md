@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started:
 -->!
-[23-10-04-56_512_cosmos_gif___Google_Search](https://github.com/user-attachments/assets/397e876a-d88c-489a-a7df-f0792e0d1ae3)
+
+![23-10-04-56_512_cosmos_gif___Google_Search](https://github.com/user-attachments/assets/397e876a-d88c-489a-a7df-f0792e0d1ae3)
 
 ## A Quick brief about me.
 - 🔭 I’m working on _machine learning, deep learning, LLM, computer vision, and data science_. 🤖
