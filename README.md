@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Thanks for checking out!
 
-## It's me, Rakshitha! I am a junior pursuing my bachelor's in Computer Science and Engineering.
-
+## Rakshitha here. 
 <!--
 **RakshithaKalkura/RakshithaKalkura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
