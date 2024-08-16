@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-![209159_vaporwave_gif_1920x1080___Google_Search](https://github.com/user-attachments/assets/ce70170b-c21f-4290-91fc-07718c265728)
+  ![209159_vaporwave_gif_1920x1080___Google_Search](https://github.com/user-attachments/assets/ce70170b-c21f-4290-91fc-07718c265728)
 
 ## A Quick brief about me.
 - 🔭 I’m working on _machine learning, deep learning, LLM, computer vision, and data science_. 🤖
