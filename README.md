@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🤝 I would love to work with anyone to pursue enthralling projects. 🤩
 - 📫 How to reach me: You can connect me on [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakshitha-k-)
 - 📩 You can also reach me through my email - rakshithakalkura837@gmail.com
-![209159_vaporwave_gif_1920x1080___Google_Search](https://github.com/user-attachments/assets/ce70170b-c21f-4290-91fc-07718c265728)
  
 
 
