@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- I’m working on machine learning, deep learning, computer vision and computational neuroscience. 🤖
+- I’m working on computer vision, spiking neural networks and computational neuroscience. 🤖
 - You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rakshitha-k-/)
 - You can also reach me through my email - rakshithakalkura837@gmail.com
  
